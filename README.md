@@ -12,7 +12,9 @@
 This include my private repo used for school
 
 <table>
-  <tr><img src="https://api.githubtrends.io/user/svg/kurikawatt/langs?time_range=one_month&include_private=True&theme=bright_lights" /></tr>
-  <tr><img src="https://api.githubtrends.io/user/svg/kurikawatt/langs?time_range=three_months&include_private=True&theme=bright_lights"/></tr>
-  <tr><img src="https://api.githubtrends.io/user/svg/kurikawatt/langs?time_range=one_year&include_private=True&theme=bright_lights"/></tr>
+  <tr>
+    <td><img src="https://api.githubtrends.io/user/svg/kurikawatt/langs?time_range=one_month&include_private=True&theme=bright_lights" /></td>
+    <td><img src="https://api.githubtrends.io/user/svg/kurikawatt/langs?time_range=three_months&include_private=True&theme=bright_lights"/></td>
+    <td><img src="https://api.githubtrends.io/user/svg/kurikawatt/langs?time_range=one_year&include_private=True&theme=bright_lights"/></td>
+  </tr>
 </table>

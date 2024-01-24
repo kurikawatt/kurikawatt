@@ -1,11 +1,11 @@
 ### Hi there, I'm Kurikawa 👋
 
-|               	| C 	| Python 	| Java 	| HTML 	| CSS 	| JavaScript 	| Rust 	| Haskell |
-|---------------	|---	|--------	|------	|------	|-----	|------------	|------	| ------- |
-| Want to learn 	|   	|        	|      	|      	|     	|            	| X    	| No      |
-| Learning      	| X 	|        	|      	|      	|     	|            	|      	| X       |
-| Understand    	| X 	| X      	| X    	| X    	| X   	| X          	|      	|         |
-| Write         	| X 	| X      	| X    	| X    	| X   	| X          	|      	|         |
+|               	| C 	| Python 	| Java 	| HTML 	| CSS 	| JavaScript 	| Rust 	| Haskell | PHP |
+|---------------	|---	|--------	|------	|------	|-----	|------------	|------	| ------- | --- |
+| Want to learn 	|   	|        	|      	|      	|     	|            	| X    	| No      |     | 
+| Learning      	| X 	|        	|      	|      	|     	|            	|      	| X       | X   |
+| Understand    	| X 	| X      	| X    	| X    	| X   	| X          	|      	|         | X   |
+| Write         	| X 	| X      	| X    	| X    	| X   	| X          	|      	| X       | X   |
 
 ## Somes stats
 
